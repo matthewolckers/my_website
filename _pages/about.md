@@ -1,23 +1,23 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Matthew</strong> Olckers
+description: Postdoctoral Fellow in Network Economics, Monash University
 
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address: > # Temporary solution to use <br> elements
+    <p><br></p>
+
 
 news: true
 social: true
+order: 0
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I recently completed my PhD at the Paris School of Economics, under the supervision of [Francis Bloch](https://www.sites.google.com/site/francisbloch1/) and [Margherita Comola](http://www.parisschoolofeconomics.com/comola-margherita/). I am now working as a research fellow at Monash University with [Arthur Campbell](https://sites.google.com/site/arthurcampbellecon/) and [Yves Zenou](https://sites.google.com/site/yvesbzenou/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests include social networks, development economics and household finance. I am particularly interested in the intersection of economics and computer science, such as using mechanism design in practical applications or using alternative data sources to answer questions about poverty and development.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside of my research, I love surfing, helping out at church, travelling with my wife, and seeing graffiti on trains. I compiled a book (available [in print](https://www.shelflife.co.za/products/Painting-Cape-Town-Graffiti-From-South-Africa), [on Kindle](https://www.amazon.com/Painting-Cape-Town-Graffiti-Africa-ebook/dp/B06WGMHWNR), and [on Google Books](https://books.google.co.za/books/about/Painting_Cape_Town.html?id=rd_hCgAAQBAJ)) about graffiti in Cape Town, South Africa, which subsequently evolved into [a documentary](https://paintingcapetown.co.za/).
