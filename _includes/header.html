@@ -22,8 +22,11 @@
         </label>
 
       <div class="trigger">
+
         <!-- About -->
+        {% if page.layout != "about" %}
         <a class="page-link" href="{{ site.baseurl | prepend: site.url }}/">about</a>
+        {% endif %}
 
         <!-- CV link -->
         <a class="page-link" href="{{ '/CV.pdf' | prepend: site.baseurl | prepend: site.url }}">cv</a>
