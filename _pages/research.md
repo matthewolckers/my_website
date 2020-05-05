@@ -21,7 +21,7 @@ b, strong { font-weight: 600; }
   - We analyze the design of a mechanism to extract a ranking of individuals according to a unidimensional characteristic, such as ability or need. Individuals, connected on a social network, only have local information about the ranking. We show that a planner can construct an ex post incentive compatible and efficient mechanism if and only if every pair of friends has a friend in common. We characterize the windmill network as the sparsest social network for which the planner can always construct a complete ranking.
 
   - <i class="far fa-file-pdf"></i> [arXiv](https://arxiv.org/pdf/1807.05093.pdf), [SSRN](https://papers.ssrn.com/abstract=3213311)
-  - Revision requested at AEJ: Microeconomics
+  - Conditionally accepted at *AEJ: Microeconomics*
 
   ---
 
@@ -38,7 +38,7 @@ b, strong { font-weight: 600; }
 
   - Over sixty percent of employees at a large South African financial services company select the minimum rate of 7.5 percent for their monthly retirement contributions---far below the recommended rate of 15 percent. I use a field experiment to investigate whether providing employees with a retirement calculator, which shows projections of retirement income, leads to increases in contributions. The average treatment effect is positive but very small and not statistically different from zero.
 
-  - <i class="far fa-file-pdf"></i> Draft available upon request
+  - <i class="far fa-file-pdf"></i> [arXiv](https://arxiv.org/pdf/2005.01692.pdf)
 
 ---
 
@@ -48,4 +48,4 @@ b, strong { font-weight: 600; }
 
   - We analyse measures of financial literacy,  included  in  the  NIDS  survey for the first time in Wave 5. South  Africa  follows  patterns  found  in  other  countries. Less educated and low  income  respondents  display low levels of financial literacy. Most countries have large gender gaps in financial literacy while the  gender  gap  is  absent in  South  Africa.  Controlling  for  a  number  of  socio-demographic  variables,  financial literacy is positively related to ownership of a pension and of mutual funds, stocks, or shares.
 
-  - <i class="far fa-file-pdf"></i>  [SALDRU Working Paper Number 24](http://www.opensaldru.uct.ac.za/bitstream/handle/11090/957/2019_242_Saldruwp.pdf)
+  - <i class="far fa-file-pdf"></i>  [SALDRU Working Paper Number 242](http://www.opensaldru.uct.ac.za/bitstream/handle/11090/957/2019_242_Saldruwp.pdf)
