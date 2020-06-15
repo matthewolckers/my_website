@@ -34,14 +34,6 @@ b, strong { font-weight: 600; }
 
 ---
 
-**On track for retirement?**
-
-  - Over sixty percent of employees at a large South African financial services company select the minimum rate of 7.5 percent for their monthly retirement contributions---far below the recommended rate of 15 percent. I use a field experiment to investigate whether providing employees with a retirement calculator, which shows projections of retirement income, leads to increases in contributions. The average treatment effect is positive but very small and not statistically different from zero.
-
-  - <i class="far fa-file-pdf"></i> [arXiv](https://arxiv.org/pdf/2005.01692.pdf)
-
----
-
 **Financial literacy in South Africa**
   - with [Lwanga Elizabeth Nanziri](https://sites.google.com/view/elnanziri), University of Stellenbosch.
 
