@@ -4,7 +4,7 @@ permalink: /publications/
 title: publications
 description: Publications in reversed chronological order.
 order: 1
-years: [2019]
+years: [2020]
 ---
 
 {% for y in page.years %}
