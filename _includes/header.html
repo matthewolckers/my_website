@@ -31,12 +31,18 @@
       <div class="collapse navbar-collapse text-right" id="navbarNav">
         <ul class="navbar-nav ml-auto flex-nowrap">
           <!-- About -->
-          <li class="nav-item {% if page.title == 'about' %}active{% endif %}">
+          <!-- <li class="nav-item {% if page.title == 'about' %}active{% endif %}">
             <a class="nav-link" href="{{ '/' | relative_url }}">
               about
               {% if page.title == "about" %}
                 <span class="sr-only">(current)</span>
               {% endif %}
+            </a>
+          </li> -->
+          <!-- CV link -->
+          <li class="nav-item">
+            <a class="nav-link" href="{{ '/CV.pdf' | prepend: site.baseurl | prepend: site.url }}">
+            cv
             </a>
           </li>
           {% if site.blog_name %}
@@ -51,7 +57,7 @@
           </li>
           {% endif %}
           <!-- Other pages -->
-          {% assign sorted_pages = site.pages | sort: "title" %}
+          {% assign sorted_pages = site.pages | sort: "order" %}
           {% for p in sorted_pages %}
           {% if p.nav and p.autogen == nil %}
           <li class="nav-item {% if page.title == p.title %}active{% endif %}">
@@ -64,6 +70,12 @@
           </li>
           {% endif %}
           {% endfor %}
+          <!-- External blog link -->
+          <li class="nav-item">
+            <a class="nav-link" href="https://blog.matthewolckers.com">
+            blog
+            </a>
+          </li>
         </ul>
       </div>
     </div>

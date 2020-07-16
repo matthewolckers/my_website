@@ -2,13 +2,14 @@
 # Site settings
 # -----------------------------------------------------------------------------
 name: Matthew Olckers
+title: Matthew Olckers
 email: matthew.olckers@monash.edu
 description: > # this means to ignore newlines until "url:"
   Economics researcher based at Monash University.
 footer_text: >
   Economist by day; graffiti nerd by night.
 
-url: //www.matthewolckers.com # the base hostname & protocol for your site
+url: www.matthewolckers.com # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 
@@ -17,7 +18,7 @@ last_updated: false # set to true if you want to display last updated in the foo
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 # TODO: add layout settings (single page vs. multi-page)
 
 # -----------------------------------------------------------------------------
@@ -51,12 +52,12 @@ google_analytics: UA-90020676-1 # out your google-analytics code
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: Thoughts and tips
-blog_description: Occasionally, I write blog posts.
+blog_name:
+blog_description:
 
 # Pagination
 pagination:
-  enabled: true
+  enabled: false
 
 # Comments
 disqus_shortname: # put your disqus shortname
@@ -102,6 +103,7 @@ plugins:
   - jekyll-paginate-v2
   - jekyll/scholar
   - jemoji
+  - jekyll-toc
   # - bootstrap
   # - material-sass
 

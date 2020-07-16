@@ -7,7 +7,7 @@
     {% if site.data.venues[entry.abbr] %}
     <abbr class="badge"><a href="{{site.data.venues[entry.abbr].url}}" target="_blank">{{entry.abbr}}</a></abbr>
     {% else %}
-    <abbr class="badge">{{entry.abbr}}</abbr>
+    <abbr class="badge"><a href="{{ entry.url }}" target="_blank">{{entry.abbr}}</a></abbr>
     {% endif %}
   {% endif %}
   </div>
@@ -65,7 +65,7 @@
 
     <span class="links">
     {% if entry.abstract %}
-      [<a class="abstract">Abs</a>]
+      [<a class="abstract">Abstract</a>]
     {% endif %}
     {% if entry.arxiv %}
       [<a href="http://arxiv.org/abs/{{ entry.arxiv }}" target="_blank">arXiv</a>]

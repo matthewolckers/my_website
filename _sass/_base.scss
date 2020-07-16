@@ -274,6 +274,10 @@ footer.sticky-bottom {
           background-color: $theme-color;
           padding-left: 1rem;
           padding-right: 1rem;
+          a {
+            color: #fff !important;
+            text-decoration: none
+            }
         }
       }
       span {

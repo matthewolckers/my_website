@@ -2,6 +2,7 @@
 layout: links
 title: links
 permalink: /links/
+nav: true
 order: 4
 toc: true
 ---

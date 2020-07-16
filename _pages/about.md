@@ -1,8 +1,8 @@
 ---
 layout: about
 permalink: /
-title: <strong>Matthew</strong> Olckers
-description: Postdoctoral Fellow in Network Economics, Monash University
+title: about
+description: Postdoctoral Fellow in Network Economics, <a href="https://research.monash.edu/en/persons/matthew-olckers">Monash University</a>
 
 profile:
   align: right
