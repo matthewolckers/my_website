@@ -285,6 +285,9 @@ footer.sticky-bottom {
       }
       .title {
         font-weight: bolder;
+        a {
+          color: $text-color;
+        }
       }
       .author {
         a {

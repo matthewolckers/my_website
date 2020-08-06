@@ -16,7 +16,7 @@
     {% if entry.type == "thesis" %}
       {{reference}}
     {% else %}
-      <span class="title">{{entry.title}}</span>
+      <span class="title"><a href="{{ entry.url }}" target="_blank">{{entry.title}}</a></span>
       <span class="author">
         {% for author in entry.author_array %}
           {% if forloop.length == 1 %}

@@ -18,14 +18,6 @@ b, strong { font-weight: 600; }
 
 
 
-**Biased updating creates a gambling trap: Evidence from sports betting in Kenya**
-  - with [Joshua Blumenstock](http://www.jblumenstock.com/), UC Berkeley.
-
-  - We develop a model to show how biased updating can lead to persistent overconfidence in one's ability, and highlight the negative welfare implications of this overconfidence. We validate key assumptions and predictions of this model using a unique dataset that captures rich details on the gambling decisions of over 50,000 Kenyans. The data show that gamblers react asymmetrically to (exogenous variation in) wins and losses. The bias in the learning process causes gamblers to increase betting expenditures over time. Exogenous increases in betting expenditures cause gamblers to take out high-interest loans, thus creating scope for persistent debt traps.
-
-  - <i class="far fa-file-pdf"></i> Draft available upon request
-
----
 
 **Financial literacy in South Africa**
   - with [Lwanga Elizabeth Nanziri](https://sites.google.com/view/elnanziri), University of Stellenbosch.
