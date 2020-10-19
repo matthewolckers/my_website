@@ -20,7 +20,7 @@ b, strong { font-weight: 600; }
 **Gamblers Learn from Experience**
   - with [Joshua Blumenstock](http://www.jblumenstock.com/), UC Berkeley.
 
-  - Sports betting---a type of gambling with an element of skill---has grown wildly popular in East Africa. Commentators worry that low ability gamblers will not learn from experience. Using data on mobile money and gambling transactions for over 50 000 Kenyan smartphone users, we find that gamblers do learn from experience. Gamblers are less likely to bet following poor results and more likely to bet following good results. The reaction to positive and negative feedback is of equal magnitude, which fits a model of Bayesian updating.
+  - Mobile phone-based gambling has grown wildly popular in Africa. Commentators worry that low ability gamblers will not learn from experience, and may rely on debt to gamble. Using data on financial transactions for over 50 000 Kenyan smartphone users, we find that gamblers do learn from experience. Gamblers are less likely to bet following poor results and more likely to bet following good results. The reaction to positive and negative feedback is of equal magnitude, and is consistent with a model of Bayesian updating. Using an instrumental variables strategy, we find no evidence that increased gambling leads to increased demand for debt.
 
   - <i class="far fa-file-pdf"></i> [bit.ly/blumenstock-olckers-2020](http://bit.ly/blumenstock-olckers-2020)
 
@@ -33,7 +33,7 @@ b, strong { font-weight: 600; }
 
   - Over sixty percent of employees at a large South African company contribute only the minimum rate of 7.5 percent of their salary to a retirement fund---far below the rate of 15 percent recommended by financial advisers. I use a field experiment to investigate whether providing employees with a retirement calculator, which shows projections of retirement income, leads to increases in contributions. The impact is negligible. The lack of response to the calculator suggests many employees may wish to save less than the 7.5 percent minimum. I provide a model of asymmetric information to explain the current equilibrium.
 
-  - <i class="far fa-file-pdf"></i> [bit.ly/olckers-retirement-rct](http://bit.ly/olckers-retirement-rct)
+  - <i class="far fa-file-pdf"></i> [arXiv:2005.01692](https://arxiv.org/pdf/2005.01692.pdf)
 
 <br>
 
