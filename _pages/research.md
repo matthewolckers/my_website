@@ -22,7 +22,7 @@ b, strong { font-weight: 600; }
 
   - Mobile phone-based gambling has grown wildly popular in Africa. Commentators worry that low ability gamblers will not learn from experience, and may rely on debt to gamble. Using data on financial transactions for over 50 000 Kenyan smartphone users, we find that gamblers do learn from experience. Gamblers are less likely to bet following poor results and more likely to bet following good results. The reaction to positive and negative feedback is of equal magnitude, and is consistent with a model of Bayesian updating. Using an instrumental variables strategy, we find no evidence that increased gambling leads to increased demand for debt.
 
-  - <i class="far fa-file-pdf"></i> [bit.ly/blumenstock-olckers-2020](http://bit.ly/blumenstock-olckers-2020)
+  - <i class="far fa-file-pdf"></i> [arXiv:2011.00432](https://arxiv.org/pdf/2011.00432.pdf)
 
 <br>
 
