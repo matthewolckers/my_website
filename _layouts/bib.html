@@ -88,6 +88,12 @@
     {% if entry.code %}
       [<a href="{{ entry.code }}" target="_blank">Code</a>]
     {% endif %}
+    {% if entry.presentation %}
+      [<a href="{{ entry.presentation }}" target="_blank">Presentation</a>]
+    {% endif %}
+    {% if entry.summary %}
+      [<a href="{{ entry.summary }}" target="_blank">Summary</a>]
+    {% endif %}
     </span>
 
     <!-- Hidden abstract block -->
