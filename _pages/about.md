@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: about
-description: Postdoctoral Fellow, <a href="https://research.monash.edu/en/persons/matthew-olckers">UNSW Sydney</a>
+description: Postdoctoral Fellow, UNSW Sydney
 
 profile:
   align: right
